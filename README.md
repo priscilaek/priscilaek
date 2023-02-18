@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @priscilaek
-- 👀 I’m interested in software quality
-- 🌱 I’m currently learning more code
-- 💞️ I’m looking to collaborate on frameworks testing
+- 👀 I’m interested in software quality and data science
+- 🌱 I’m currently learning more about IA
+- 💞️ I’m looking to collaborate on Software for IA projects
 - 📫 How to reach me priscilaek@gmail.com
 
 <!---
